@@ -1,0 +1,55 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags: []
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 1
+  - Water
+  - UI
+  - Ground
+  - Interactables
+  - Traps
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: 0
+    uniqueID: 4085130693
+    locked: 0
+  - name: 1
+    uniqueID: 3980105435
+    locked: 0
+  - name: 2
+    uniqueID: 816790745
+    locked: 0
+  - name: 3
+    uniqueID: 3244614035
+    locked: 0
